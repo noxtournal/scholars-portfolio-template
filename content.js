@@ -17,42 +17,42 @@
 const PORTFOLIO = {
 
   // ---------- HEADER ----------
-  name: "Jordan Lee",
-  title: "Software Engineering",          // your focus area, shown under your name
+  name: "Lorem Ipsum",
+  title: "Dolor Sit Amet",          // your focus area, shown under your name
   accentColor: "#1f3fe0",                 // link color; any hex color works
 
   contact: {
-    email: "jl12345n@pace.edu",
-    location: "Manhattan, NY",
-    degree: "BS in Computer Science, Minor in Mathematics",
-    github: "https://github.com/your-username",
-    linkedin: "https://www.linkedin.com/in/your-name",
+    email: "lorem@pace.edu",
+    location: "Lorem, NY",
+    degree: "BS in Lorem Ipsum, Minor in Dolor",
+    github: "https://github.com/lorem-ipsum",
+    linkedin: "https://www.linkedin.com/in/lorem-ipsum",
     resume: "resume.pdf",                 // upload your resume PDF to the repo with this exact file name
   },
 
   // ---------- ABOUT (2–3 sentences) ----------
-  about: "Computer Science student at Pace University and member of the Seidenberg Scholars cohort. I like building practical tools with Python and JavaScript, and I'm looking for summer 2027 internships in software engineering.",
+  about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
 
   // ---------- PROJECTS ----------
   // Each project is one block. Copy a block to add another.
   projects: [
     {
-      title: "Campus Shuttle Tracker",
-      link: "https://github.com/your-username/shuttle-tracker",   // live demo or repo; "" for no link
-      date: "Spring 2026",
-      tools: "React, Firebase, Google Maps API",
+      title: "Lorem Ipsum Project",
+      link: "https://github.com/lorem-ipsum/project",   // live demo or repo; "" for no link
+      date: "Season 20XX",
+      tools: "Lorem, Ipsum, Dolor",
       description: [
-        "Web app that shows where Pace's campus shuttles are in real time, built for a class final project.",
-        "Second paragraph is optional. Delete this line if you only need one.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
       ],
     },
     {
-      title: "Budget Buddy",
+      title: "Dolor Sit Project",
       link: "",
-      date: "Fall 2025",
-      tools: "Python, Pandas, Matplotlib",
+      date: "Season 20XX",
+      tools: "Lorem, Ipsum, Dolor",
       description: [
-        "Command-line tool that reads bank CSV exports and charts monthly spending by category.",
+        "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       ],
     },
   ],
@@ -60,13 +60,13 @@ const PORTFOLIO = {
   // ---------- EXPERIENCE ----------
   experience: [
     {
-      role: "Peer Tutor",
-      org: "Pace University Learning Commons",
-      location: "New York, NY",
-      dates: "Sep 2025 – Present",
+      role: "Lorem Role",
+      org: "Ipsum Organization",
+      location: "Lorem, NY",
+      dates: "Mon 20XX – Present",
       bullets: [
-        "Tutor intro programming students in Java and Python, 6 hours per week.",
-        "Wrote practice problem sets used across three course sections.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Sed do eiusmod tempor incididunt ut labore et dolore.",
       ],
     },
   ],
@@ -74,17 +74,17 @@ const PORTFOLIO = {
   // ---------- EDUCATION ----------
   education: [
     {
-      school: "Pace University, Seidenberg School of CSIS",
-      degree: "B.S. in Computer Science, Minor in Mathematics",
-      dates: "Expected May 2029",
-      details: "Seidenberg Scholar",
+      school: "Lorem Ipsum University",
+      degree: "B.S. in Lorem Ipsum, Minor in Dolor",
+      dates: "Expected Mon 20XX",
+      details: "Lorem ipsum dolor sit amet",
     },
   ],
 
   // ---------- SKILLS ----------
   skills: [
-    { group: "Languages", items: "Python, Java, JavaScript, HTML/CSS, SQL" },
-    { group: "Tools",     items: "Git, GitHub, VS Code, Jupyter, Figma" },
+    { group: "Lorem", items: "Ipsum, Dolor, Sit, Amet, Consectetur" },
+    { group: "Ipsum",     items: "Adipiscing, Elit, Sed, Eiusmod" },
   ],
 
   // ---------- FOOTER ----------
